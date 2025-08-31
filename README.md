@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Ovrwrld
-- I Have Been Hands On Developing Random Things For Over 3 Years.
-- Got My Start In Python, Moved To Game Development, LUA, C++.
-- Small Knowledge In Web Development & UI Development.
+- I Have Been Working In LUA, C++, And C# For Over 3 Years.
+- I Have Dabled In Some HTML and UI Work Too
+
+- Main Focus Has Been FiveM Scripting
 
 <!---
 OvrwrldDev/OvrwrldDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
